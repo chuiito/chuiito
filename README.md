@@ -1,4 +1,4 @@
-### Hi there 👋
+### "¡Hola, hola, hola! Soy Jesús Quiaro, un desarrollador frontend de JavaScript que cree que el código limpio y eficiente es la clave para el éxito. Mi objetivo principal es crear trabajos sólidos y de alta calidad, y lo hago con un toque de compañerismo y humor. Aunque aún no he creado un proyecto épico, estoy en el proceso de aprender y experimentar con pequeñas cosas. Siempre busco la optimización en todo lo que hago, y mi habilidad en JavaScript me permite crear código tan brillante que te hará necesitar gafas de sol. Soy un entusiasta del café y siempre estoy listo para discutir sobre las últimas novedades en tecnología mientras tomo una taza. Si te gusta el buen código, el café y un poco de humor, ¡contactame y hagamos algo increíble juntos!"
 
 <!--
 **chuiito/chuiito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
